@@ -1,6 +1,9 @@
 # Machine-Learning-with-Mathematical-Modelling
 
+
 This Repository contains Machine Learning with Mathematical Modelling 
+
+Each Folder or file contains codes with pdf of problem statement
 
 This repository contains problems that covers following topics 
 

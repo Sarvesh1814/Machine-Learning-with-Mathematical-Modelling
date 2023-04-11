@@ -1,23 +1,11 @@
-# Machine-Learning-with-Mathematical-Modelling
+# Machine Learning with Mathematical Modelling
 
+Welcome to the Machine Learning with Mathematical Modelling repository!
 
-This Repository contains Machine Learning with Mathematical Modelling 
+This repository presents various machine learning problems that use mathematical modelling to deepen your understanding of this powerful tool. Each folder or file contains a PDF of the problem statement and its corresponding code.
 
-Each Folder or file contains codes with pdf of problem statement
+The problems cover a range of topics, including Ordinary Least Squares Regression, Ridge Regression (Gradient Descent and Stochastic Gradient Descent), Lasso Regression (Gradient Descent and Stochastic Gradient Descent), Kernel Regression (Gradient Descent and Stochastic Gradient Descent), L1 Norm Loss Regression (Sub Gradient Descent), L1 Norm Loss Kernel Regression, and ε-Support Vector Regression (Epsilon-SVR).
 
-This repository contains problems that covers following topics 
+In addition to these machine learning problems, we have included some data mining tasks that utilize Association Rule Mining and Frequent Set Mining on the US Accident Dataset and an approximate cost regressor for restaurants on the Zomato Dataset.
 
-1) Ordinary Least Squares Regression
-2) Ridge Regression  (Gradient Descent Stochastic Gradient Descent)
-3) Lasso Regression  (Gradient Descent Stochastic Gradient Descent)
-4) Kernel Regression  (Gradient Descent Stochastic Gradient Descent)
-5) L1 Norm Loss Regression (Sub Gradient Descent)
-6) L1 Norm Loss Kernel Regression 
-7) ε-Support Vector Regression (Epsilon-SVR)
-
-
-It also contains some tasks regarding Data Mining
-
-a). Association Rule Mining and Frequentset Mining on US Accident Data Set
-
-b). Approximate Cost for resturant regressor on Zomato Data Set 
+I hope that this repository helps you gain practical insights into Machine Learning with Mathematical Modelling. If you have any questions or feedback, please do not hesitate to contact us. Thank you for visiting!
